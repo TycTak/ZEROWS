@@ -1,0 +1,2 @@
+include ':zerowslib', ':app'
+project(':zerowslib').projectDir = new File(settingsDir, '../ZEROWSLIB/zerowslib')

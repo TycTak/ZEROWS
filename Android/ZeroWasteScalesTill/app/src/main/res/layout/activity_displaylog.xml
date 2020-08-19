@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity_DisplayLog">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_gravity="center|top"
+        tools:ignore="MissingConstraints">
+
+        <fragment
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:name="com.tyctak.zerowastescalestill.Fragment_Header"
+            android:id="@+id/header"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="Home > Configure > Log"/>
+
+        <TextView
+            android:text="Display log information"
+            style="@style/custom_heading"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:layout_gravity="center"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginBottom="5dp"
+                    android:orientation="horizontal">
+
+                    <Button
+                        android:id="@+id/btnClear"
+                        android:onClick="btnSubmit"
+                        android:text="START"
+                        android:longClickable="true"
+                        style="@style/custom_submit_style"/>
+
+                    <Button
+                        android:id="@+id/btnCancel"
+                        android:onClick="btnCancel"
+                        android:text="CANCEL"
+                        style="@style/custom_submit_style"/>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:weightSum="5">
+
+                    <View
+                        android:layout_width="50dp"
+                        android:layout_height="1dp"
+                        android:layout_weight="1"/>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="62dp"
+                        android:orientation="horizontal"
+                        android:background="@drawable/custom_input"
+                        android:gravity="center_vertical"
+                        android:elevation="2dp"
+                        android:layout_margin="2dp"
+                        android:layout_weight="3">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="18sp"
+                            android:layout_marginLeft="20dp"
+                            android:textColor="@android:color/black"
+                            android:text="Log Area:"/>
+
+                        <Spinner
+                            android:id="@+id/spinnerLogArea"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:ellipsize="marquee" />
+
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="50dp"
+                        android:layout_height="1dp"
+                        android:layout_weight="1"/>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"
+                    android:weightSum="5">
+
+                    <View
+                        android:layout_width="10dp"
+                        android:layout_height="1dp"
+                        android:layout_weight="1"/>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical"
+                        android:layout_weight="3">
+
+                        <ListView android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:id="@+id/mainListView"
+                            android:scrollbars="vertical"
+                            android:scrollbarAlwaysDrawVerticalTrack="true">
+
+                        </ListView>
+
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="10dp"
+                        android:layout_height="1dp"
+                        android:layout_weight="1"/>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <ProgressBar
+                android:id="@+id/pbLoading"
+                style="@style/custom_progress_bar"/>
+
+            <TextView
+                android:id="@+id/txtMessage"
+                android:text=""
+                style="@style/custom_message_text_style"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

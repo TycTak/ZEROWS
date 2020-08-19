@@ -1,0 +1,55 @@
+<resources>
+    <string name="appName">ZEROWS Till</string>
+    <string name="appTitle">ZERO Waste Scales Till</string>
+    <string name="version">1.01</string>
+    <string name="baseUrl">https://192.168.0.50/</string>
+    <string name="configPassword">123A</string>
+    <string name="wsPassword">0YGM6WEC7B</string>
+    <string name="NoConnection">Not able to connect</string>
+    <string name="NoBackup">Unable to backup</string>
+    <string name="NoScalesFound">Sorry scales not found, you must enter a valid scales http address and linkcode to continue</string>
+    <string name="StockItem">STOCK ITEM</string>
+    <string name="WeighedItem">WEIGHED</string>
+    <string name="AreYouReward">Are you a %s?</string>
+    <string name="SearchList">Search List</string>
+    <string name="BasketList">Basket List</string>
+    <string name="NoIP">Not able to connect [%s]</string>
+    <string name="AreYouSure">Are you sure?</string>
+    <string name="TitleFailedVerification">Invalid Verification</string>
+    <string name="DescriptionFailedVerification">Your ZEROWS server has failed its mandatory verification, this is a serious fault and you should contact support immediately</string>
+    <string name="LeaveApplication">Leave the ZEROWS Till application</string>
+    <string name="Menu_Activity_Process">Home > Process</string>
+    <string name="Menu_Activity_Process_Customer">Home > Customer > Process</string>
+    <string name="Menu_Activity_Backup">Home > Backup</string>
+    <string name="DateNotValid">Date is not valid</string>
+    <string name="Button_Backup">BACKUP</string>
+    <string name="Button_Cancel">CANCEL</string>
+    <string name="NoPasswordChange">Not able to change password</string>
+    <string name="UrlLinkCode">You must supply the url and link code</string>
+    <string name="ReportProduced">Thank you, your report has been sent</string>
+    <string name="ReportNotProduced">Not able to produce report</string>
+    <string name="InvalidPassword">Password not valid</string>
+    <string name="NoProcess">Process was not found or did not work</string>
+    <string name="NoCode">No process code supplied</string>
+    <string name="YourBackupIs">Your security code is: %s\nYour file name is: %s</string>
+    <string name="Error">Error</string>
+    <string name="Failed">Failed</string>
+    <string name="NotInstalledSquare">Square POS is not installed</string>
+    <string name="NotInstalledSumUp">Sumup POS is not installed</string>
+    <string name="perName">per</string>
+    <string name="qtyName">Qty</string>
+    <string name="netGrossName">Net/Gross</string>
+    <string-array name="paymenttypes">
+        <item>Square</item>
+        <item>SumUp</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="logareas">
+        <item>None</item>
+        <item>Activity_Customer</item>
+    </string-array>
+    <string name="title_activity_test">TestActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

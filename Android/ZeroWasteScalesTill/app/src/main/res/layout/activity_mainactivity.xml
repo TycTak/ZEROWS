@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity_MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center|top"
+        tools:ignore="MissingConstraints">
+
+        <fragment
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:name="com.tyctak.zerowastescalestill.Fragment_Header"
+            android:id="@+id/header"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="Home >"/>
+
+        <com.google.android.flexbox.FlexboxLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="12dp"
+            app:flexWrap="wrap"
+            app:alignItems="stretch"
+            app:alignContent="stretch"
+            android:layout_gravity="center">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_gravity="center">
+
+                <Button
+                    android:onClick="btnCustomer"
+                    android:background="@drawable/custom_special"
+                    android:text="CUSTOMER"
+                    style="@style/custom_button_style"/>
+
+                <TextView
+                    android:text="Main payment screen"
+                    style="@style/custom_button_text_style"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_gravity="center">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:visibility="visible"
+                    android:layout_gravity="center">
+
+                    <Button
+                        android:onClick="btnBackup"
+                        android:text="BACKUP"
+                        style="@style/custom_button_style"/>
+
+                    <TextView
+                        android:text="Backup to cloud"
+                        style="@style/custom_button_text_style"/>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_gravity="center">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:visibility="visible"
+                    android:layout_gravity="center">
+
+                    <Button
+                        android:onClick="btnRunProcess"
+                        android:text="PROCESS"
+                        style="@style/custom_button_style"/>
+
+                    <TextView
+                        android:text="Run a coded process"
+                        style="@style/custom_button_text_style"/>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="visible"
+                android:layout_gravity="center">
+
+                <Button
+                    android:id="@+id/btnReports"
+                    android:onClick="btnReports"
+                    android:longClickable="true"
+                    android:text="REPORTS"
+                    style="@style/custom_button_style"/>
+
+                <TextView
+                    android:text="Produce a report"
+                    style="@style/custom_button_text_style"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="visible"
+                android:layout_gravity="center">
+
+                <Button
+                    android:id="@+id/btnConfigure"
+                    android:onClick="btnConfigure"
+                    android:longClickable="true"
+                    android:text="CONFIGURE"
+                    style="@style/custom_button_style"/>
+
+                <TextView
+                    android:text="Configure the till"
+                    style="@style/custom_button_text_style"/>
+
+            </LinearLayout>
+
+        </com.google.android.flexbox.FlexboxLayout>
+
+        <ProgressBar
+            android:id="@+id/pbLoading"
+            style="@style/custom_progress_bar"/>
+
+        <TextView
+            android:id="@+id/txtMessage"
+            android:text=""
+            style="@style/custom_message_text_style"/>
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

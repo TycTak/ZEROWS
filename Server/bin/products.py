@@ -1,0 +1,106 @@
+#!/usr/bin/python3
+
+# Build: 77
+# Support: support@tyctak.com
+# Owner: TycTak Ltd
+# Developer: Mike Clark
+# Copyright: TycTak Ltd - All Rights Reserved
+
+from lib import common as cm
+from lib import sh
+import os, sys, datetime, time
+
+# PREPARE
+################################################################
+
+binDirectory = os.path.dirname(sys.argv[0])
+jsonConfigPath = cm.getArgValue(sys.argv, '-f', '/home/pi/data/config.json'.format(binDirectory))
+
+if len(sys.argv) > 1:
+	productDirectory = os.path.dirname(sys.argv[1])
+	productFilePath = sys.argv[1]
+
+# CONFIGURE
+##########################################################
+
+cm.copyright()
+cm.coutn('Responding to products')
+cm.coutn('System date: {0}'.format(datetime.datetime.now()))
+cm.coutn('Locating configuration information')
+
+# LOAD CONFIG
+##########################################################
+
+jsonConfigFile = cm.loadJsonFile(jsonConfigPath)
+
+sh.traceDirectory = cm.getJsonValue(jsonConfigFile, 'traceDirectory', '/home/pi/bin/trace/')
+sh.traceFile = cm.getJsonValue(jsonConfigFile, 'traceProducts', 'products.log')
+
+if (len(sys.argv) == 1):
+	productDirectory = cm.getJsonValue(jsonConfigFile, 'productsDirectory', '/home/pi/dev/')
+	productFilePath = '{0}products.json'.format(productDirectory)
+
+cm.configTrace()
+cm.createTrace()
+
+cm.coutn('Configuration information loaded')
+
+# DEBUG
+##########################################################
+
+cm.coutn('sh.now = {0}'.format(sh.now))
+cm.coutn('sh.traceDirectory = {0}'.format(sh.traceDirectory))
+cm.coutn('sh.traceFile = {0}'.format(sh.traceFile))
+cm.coutn('sh.traceFilePath = {0}'.format(sh.traceFilePath))
+cm.coutn('productDirectory = {0}'.format(productDirectory))
+cm.coutn('productFilePath = {0}'.format(productFilePath))
+
+# DB
+##########################################################
+
+cm.coutn('Assigning database')
+
+sh.dbServer = cm.getJsonValue(jsonConfigFile, 'dbServer', '')
+sh.dbName = cm.getJsonValue(jsonConfigFile, 'dbName', '')
+sh.dbUserId = cm.getJsonValue(jsonConfigFile, 'dbUserId', '')
+sh.dbPassword = cm.getJsonValue(jsonConfigFile, 'dbPassword', '')
+
+cm.coutn('dbServer = {0}'.format(sh.dbServer))
+cm.coutn('dbName = {0}'.format(sh.dbName))
+cm.coutn('dbUserId = {0}'.format(sh.dbUserId))
+cm.coutn('dbPassword = ***********')
+
+cm.coutn('Database assigned')
+
+# MAIN PROGRAM
+##########################################################
+
+exists = os.path.isfile(productFilePath)
+
+if (exists):
+	jsonProductFile = cm.loadJsonFile(productFilePath)
+	cm.writeProductOnHoldAll()
+
+	try:
+
+		for module in jsonProductFile["products"]:
+			cm.cout('importing = {0}/{1}'.format(module["category"], module["productname"]))
+			productid = cm.getProductExist(module["category"], module["productname"])
+
+			cm.coutn(productid)
+
+			if (productid == 0):
+				cm.cout(' - INSERT')
+				cm.writeProduct(module["category"], module["productname"], module["description"], module["currency"], module["unit"], module["unitgross"], module["unitnet"], module["supplier"], module["packsize"], module["country"], module["organic"], module["status"], module["allergen"], module["nutritional"], module["productcode"], module["suppliercode"], module["unitvat"], module["vatcode"], module["premarkupprice"], module["vegan"], module["addedsalt"], module["addedsugar"], module["barcode"])
+			else:
+				cm.cout(' - UPDATE')
+				cm.updateProduct(productid, module["description"], module["currency"], module["unit"], module["unitgross"], module["unitnet"], module["supplier"], module["packsize"], module["country"], module["organic"], module["status"], module["allergen"], module["nutritional"], module["productcode"], module["suppliercode"], module["unitvat"], module["vatcode"], module["premarkupprice"], module["vegan"], module["addedsalt"], module["addedsugar"], module["barcode"])
+
+			cm.coutn('')
+
+		cm.writeDeleteProducts()
+
+	except:
+		cm.getException()
+else:
+	cm.coutn('No productFilePath exists')

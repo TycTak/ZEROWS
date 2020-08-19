@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Dialog_Item">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingLeft="18dp"
+        style="@style/AppTheme.RoundWindow">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="2">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_weight="1">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text="Item Details"
+                    android:textSize="24sp"
+                    android:textColor="@android:color/holo_blue_dark"/>
+
+                <TextView
+                    android:id="@+id/txtWhich"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:textSize="18sp"
+                    android:layout_marginTop="10dp"/>
+
+                <TextView
+                    android:id="@+id/txtReference"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:textSize="18sp"/>
+
+                <TextView
+                    android:id="@+id/txtProductName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="-3dp"
+                    android:textSize="28sp"
+                    android:layout_gravity="top"
+                    android:text=""
+                    android:clickable="false"/>
+
+                <TextView
+                    android:id="@+id/txtCategory"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="20sp"
+                    android:text=""
+                    android:clickable="false"/>
+
+                <TextView
+                    android:id="@+id/txtMessage"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="20sp"
+                    android:text=""
+                    android:clickable="false"/>
+
+                <TextView
+                    android:id="@+id/txtTotalPrice"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:clickable="false"
+                    android:text=""
+                    android:textSize="36sp" />
+
+                <TextView
+                    android:id="@+id/txtDealCode"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:clickable="false"
+                    android:text=""
+                    android:textSize="36sp" />
+
+            </LinearLayout>
+
+            <ScrollView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                style="@style/scrollbar_frame_style"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="75dp"
+                android:layout_marginRight="10dp"
+                android:paddingRight="25dp"
+                android:layout_weight="1">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/txtProductCode"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:clickable="false"
+                        android:text=""
+                        android:textSize="24sp" />
+
+                    <TextView
+                        android:id="@+id/txtCountry"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:clickable="false"
+                        android:text=""
+                        android:textSize="24sp" />
+
+                    <TextView
+                        android:id="@+id/txtDescription"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:clickable="false"
+                        android:text=""
+                        android:textSize="24sp" />
+
+                    <TextView
+                        android:id="@+id/txtAllergen"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:clickable="false"
+                        android:text=""
+                        android:textSize="24sp" />
+
+                    <TextView
+                        android:id="@+id/txtIsOrganic"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:clickable="false"
+                        android:text=""
+                        android:textSize="24sp" />
+
+                    <TextView
+                        android:id="@+id/txtIsVegan"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:clickable="false"
+                        android:text=""
+                        android:textSize="24sp" />
+
+                    <TextView
+                        android:id="@+id/txtAddedSalt"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:clickable="false"
+                        android:text=""
+                        android:textSize="24sp" />
+
+                    <TextView
+                        android:id="@+id/txtAddedSugar"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:clickable="false"
+                        android:text=""
+                        android:textSize="24sp" />
+
+                    <TextView
+                        android:id="@+id/txtNutritional"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:clickable="false"
+                        android:text=""
+                        android:textSize="24sp" />
+
+                </LinearLayout>
+
+            </ScrollView>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center"
+            android:orientation="horizontal"
+            android:layout_alignParentBottom="true"
+            android:layout_centerInParent="true">
+
+            <Button
+                android:id="@+id/btnCancel"
+                android:onClick="btnCancel"
+                android:text="CANCEL"
+                android:layout_marginBottom="15dp"
+                android:layout_marginTop="10dp"
+                style="@style/custom_button_tab_style"/>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</LinearLayout>

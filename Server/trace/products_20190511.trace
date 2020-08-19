@@ -1,0 +1,399 @@
+
+Creating trace file
+201641545: Configuration information loaded
+201641545: sh.now = 2019-05-11 20:16:41.544581
+201641545: sh.traceDirectory = /home/pi/trace/
+201641545: sh.traceFile = products_{dateName}.trace
+201641545: sh.traceFilePath = /home/pi/trace/products_20190511.trace
+201641545: productDirectory = /var/www/html/release
+201641545: productFilePath = /var/www/html/release/products.json
+201641545: Assigning database
+201641545: dbServer = 127.0.0.1
+201641545: dbName = rpidb
+201641545: dbUserId = remote
+201641545: dbPassword = ***********
+201641545: Database assignedimporting = Beans/Aduki Beans
+201641545: 827 - UPDATE
+201641545: =====================================================================
+201641545: Trapped Exception
+201641545: Traceback (most recent call last):
+  File "/home/pi/bin/products.py", line 97, in <module>
+    cm.updateProduct(productid, module["description"], module["currency"], module["unit"], module["unitgross"], module["unitnet"], module["supplier"], module["packsize"], module["country"], module["organic"], module["status"], module["allergen"], module["nutritional"], module["productcode"], module["suppliercode"], module["unitvat"], module["vatcode"], module["premarkupprice"], module["vegan"], module["addedsalt"], module["addedsugar"], module["barcode"])
+KeyError: 'barcode'
+
+Creating trace file
+201948264: Configuration information loaded
+201948264: sh.now = 2019-05-11 20:19:48.264495
+201948264: sh.traceDirectory = /home/pi/trace/
+201948264: sh.traceFile = products_{dateName}.trace
+201948264: sh.traceFilePath = /home/pi/trace/products_20190511.trace
+201948264: productDirectory = /var/www/html/release
+201948264: productFilePath = /var/www/html/release/products.json
+201948264: Assigning database
+201948264: dbServer = 127.0.0.1
+201948264: dbName = rpidb
+201948264: dbUserId = remote
+201948264: dbPassword = ***********
+201948264: Database assignedimporting = Beans/Aduki Beans
+201948264: 827 - UPDATE
+201948264: importing = Beans/Black Turtle Beans
+201948264: 828 - UPDATE
+201948264: importing = Beans/Haricot Beans
+201948264: 829 - UPDATE
+201948264: importing = Beans/Mung Beans
+201948264: 830 - UPDATE
+201948264: importing = Beans/Pinto Beans
+201948264: 831 - UPDATE
+201948264: importing = Beans/Red Kidney Beans
+201948264: 832 - UPDATE
+201948264: importing = Beans/Soya Beans
+201948264: 833 - UPDATE
+201948264: importing = Cacao/Cacao Nibs
+201948264: 834 - UPDATE
+201948264: importing = Cereals and Muesli/Berry Crunch
+201948264: 835 - UPDATE
+201948264: importing = Cereals and Muesli/Bran Flakes Malted
+201948264: 836 - UPDATE
+201948264: importing = Cereals and Muesli/Granola
+201948264: 837 - UPDATE
+201948264: importing = Cereals and Muesli/Muesli Date & Apricot
+201948264: 838 - UPDATE
+201948264: importing = Cereals and Muesli/Muesli Supreme
+201948264: 839 - UPDATE
+201948264: importing = Cereals and Muesli/Muesli Supreme
+201948264: 839 - UPDATE
+201948264: importing = Cereals and Muesli/Muesli gluten free
+201948264: 0 - INSERT
+201948264: importing = Cereals and Muesli/Oats - Porridge
+201948264: 840 - UPDATE
+201948264: importing = Cereals and Muesli/Oats - Porridge
+201948264: 840 - UPDATE
+201948264: importing = Cereals and Muesli/Toasted Wheat Flakes
+201948264: 841 - UPDATE
+201948264: importing = Dried Fruit/Apple Rings
+201948264: 842 - UPDATE
+201948264: importing = Dried Fruit/Banana Chips
+201948264: 843 - UPDATE
+201948264: importing = Dried Fruit/Coconut - Toasted & Sliced
+201948264: 844 - UPDATE
+201948264: importing = Dried Fruit/Dates
+201948264: 845 - UPDATE
+201948264: importing = Dried Fruit/Mango Slices
+201948264: 846 - UPDATE
+201948264: importing = Dried Fruit/Raisins, Seedless (Sunflower Oil)
+201948264: 847 - UPDATE
+201948264: importing = Dried Fruit/Sultanas (Sunflower Oil)
+201948264: 848 - UPDATE
+201948264: importing = Fresh Fruit and Veg/Avocado
+201948264: 0 - INSERT
+201948264: importing = Fresh Fruit and Veg/Bananas
+201948264: 883 - UPDATE
+201948264: importing = Fresh Fruit and Veg/Beetroot Net
+201948264: 888 - UPDATE
+201948264: importing = Fresh Fruit and Veg/Button mushrooms
+201948264: 895 - UPDATE
+201948264: importing = Fresh Fruit and Veg/Carrots
+201948264: 889 - UPDATE
+201948264: importing = Fresh Fruit and Veg/Celery
+201948264: 885 - UPDATE
+201948264: importing = Fresh Fruit and Veg/Courgettes
+201948264: 886 - UPDATE
+201948264: importing = Fresh Fruit and Veg/Cucumbers
+201948264: 884 - UPDATE
+201948264: importing = Fresh Fruit and Veg/Golden Delicious Apples
+201948264: 882 - UPDATE
+201948264: importing = Fresh Fruit and Veg/Lemons
+201948264: 890 - UPDATE
+201948264: importing = Fresh Fruit and Veg/Limes
+201948264: 891 - UPDATE
+201948264: importing = Fresh Fruit and Veg/Pineapples
+201948264: 892 - UPDATE
+201948264: importing = Fresh Fruit and Veg/Red Onions
+201948264: 894 - UPDATE
+201948264: importing = Fresh Fruit and Veg/Root Ginger
+201948264: 887 - UPDATE
+201948264: importing = Fresh Fruit and Veg/Sweet Potato
+201948264: 893 - UPDATE
+201948264: importing = Grains and Seeds/Chia Seeds
+201948264: 0 - INSERT
+201948264: importing = Grains and Seeds/Cous Cous(Wholemeal)
+201948264: 849 - UPDATE
+201948264: importing = Grains and Seeds/Gourmet Seed Mix
+201948264: 850 - UPDATE
+201948264: importing = Grains and Seeds/Maftoul
+201948264: 851 - UPDATE
+201948264: importing = Grains and Seeds/Popcorn
+201948264: 852 - UPDATE
+201948264: importing = Grains and Seeds/Red Quinoa
+201948264: 853 - UPDATE
+201948264: importing = Nuts/Almonds - Whole
+201948264: 854 - UPDATE
+201948264: importing = Nuts/Brazils - Whole
+201948264: 855 - UPDATE
+201948264: importing = Nuts/Cashews - Whole
+201948264: 856 - UPDATE
+201948264: importing = Nuts/Hazelnuts - Whole
+201948264: 857 - UPDATE
+201948264: importing = Nuts/Peanuts - Paleskin
+201948264: 858 - UPDATE
+201948264: importing = Nuts/Pinenuts
+201948264: 859 - UPDATE
+201948264: importing = Nuts/Pistachios - raw kernels
+201948264: 860 - UPDATE
+201948264: importing = Nuts/Pistachios - raw kernels
+201948264: 860 - UPDATE
+201948264: importing = Nuts/Walnuts - (Halves)
+201948264: 861 - UPDATE
+201948264: importing = Pasta and Rice/Arborio White Rice
+201948264: 862 - UPDATE
+201948264: importing = Pasta and Rice/Arborio White Rice
+201948264: 862 - UPDATE
+201948264: importing = Pasta and Rice/Basmati Brown
+201948264: 863 - UPDATE
+201948264: importing = Pasta and Rice/Basmati Brown
+201948264: 863 - UPDATE
+201948264: importing = Pasta and Rice/Basmati White
+201948264: 864 - UPDATE
+201948264: importing = Pasta and Rice/Basmati White
+201948264: 864 - UPDATE
+201948264: importing = Pasta and Rice/Gluten Free Fusilli
+201948264: 0 - INSERT
+201948264: importing = Pasta and Rice/Gluten Free Small Shells
+201948264: 0 - INSERT
+201948264: importing = Pasta and Rice/Gluten Free Vermicelli Noodles
+201948264: 0 - INSERT
+201948264: importing = Pasta and Rice/Gourmet Rice Mix
+201948264: 865 - UPDATE
+201948264: importing = Pasta and Rice/White Fusilli
+201948264: 866 - UPDATE
+201948264: importing = Pasta and Rice/White Penne
+201948264: 867 - UPDATE
+201948264: importing = Pasta and Rice/Wholewheat Penne
+201948264: 868 - UPDATE
+201948264: importing = Pasta and Rice/Wholewheat Spelt Penne
+201948264: 869 - UPDATE
+201948264: importing = Pulses/Brown Lentils
+201948264: 870 - UPDATE
+201948264: importing = Pulses/Chickpeas
+201948264: 871 - UPDATE
+201948264: importing = Pulses/Dark Speckled Lentils
+201948264: 872 - UPDATE
+201948264: importing = Pulses/Green Lentils
+201948264: 873 - UPDATE
+201948264: importing = Pulses/Red Split Lentils
+201948264: 874 - UPDATE
+201948264: importing = Pulses/Red Split Lentils
+201948264: 874 - UPDATE
+201948264: importing = Pulses/Speckled Lentils
+201948264: 875 - UPDATE
+201948264: importing = Snacks and Mixes/Bombay Mix
+201948264: 876 - UPDATE
+201948264: importing = Snacks and Mixes/Bombay Mix
+201948264: 876 - UPDATE
+201948264: importing = Snacks and Mixes/Fruit & Nut Mix
+201948264: 877 - UPDATE
+201948264: importing = Snacks and Mixes/Yoghurt Coated Apricots
+201948264: 878 - UPDATE
+201948264: importing = Snacks and Mixes/Yoghurt Coated Peanuts
+201948264: 879 - UPDATE
+201948264: importing = Snacks and Mixes/Yoghurt Coated Raisins
+201948264: 880 - UPDATE
+201948264: importing = TVP/Textured Vegetable Protein Mince - Plain
+201948264: 0 - INSERT
+201948264: importing = Herbs and Spices/Mixed Herbs
+201948264: 0 - INSERT
+201948264: importing = Household/Bio-D Floor Cleaner with Linseed Oil
+201948264: 0 - INSERT
+201948264: importing = Household/Greencane Toilet Paper
+201948264: 0 - INSERT
+201948264: importing = Tea/Clipper Organic Teabags - 80
+201948264: 0 - INSERT
+201948264: 
+Creating trace file
+202129153: Configuration information loaded
+202129153: sh.now = 2019-05-11 20:21:29.153156
+202129153: sh.traceDirectory = /home/pi/trace/
+202129153: sh.traceFile = products_{dateName}.trace
+202129153: sh.traceFilePath = /home/pi/trace/products_20190511.trace
+202129153: productDirectory = /var/www/html/release
+202129153: productFilePath = /var/www/html/release/products.json
+202129153: Assigning database
+202129153: dbServer = 127.0.0.1
+202129153: dbName = rpidb
+202129153: dbUserId = remote
+202129153: dbPassword = ***********
+202129153: Database assignedimporting = Beans/Aduki Beans
+202129153: 827 - UPDATE
+202129153: importing = Beans/Black Turtle Beans
+202129153: 828 - UPDATE
+202129153: importing = Beans/Haricot Beans
+202129153: 829 - UPDATE
+202129153: importing = Beans/Mung Beans
+202129153: 830 - UPDATE
+202129153: importing = Beans/Pinto Beans
+202129153: 831 - UPDATE
+202129153: importing = Beans/Red Kidney Beans
+202129153: 832 - UPDATE
+202129153: importing = Beans/Soya Beans
+202129153: 833 - UPDATE
+202129153: importing = Cacao/Cacao Nibs
+202129153: 834 - UPDATE
+202129153: importing = Cereals and Muesli/Berry Crunch
+202129153: 835 - UPDATE
+202129153: importing = Cereals and Muesli/Bran Flakes Malted
+202129153: 836 - UPDATE
+202129153: importing = Cereals and Muesli/Granola
+202129153: 837 - UPDATE
+202129153: importing = Cereals and Muesli/Muesli Date & Apricot
+202129153: 838 - UPDATE
+202129153: importing = Cereals and Muesli/Muesli Supreme
+202129153: 839 - UPDATE
+202129153: importing = Cereals and Muesli/Muesli Supreme
+202129153: 839 - UPDATE
+202129153: importing = Cereals and Muesli/Muesli gluten free
+202129153: 907 - UPDATE
+202129153: importing = Cereals and Muesli/Oats - Porridge
+202129153: 840 - UPDATE
+202129153: importing = Cereals and Muesli/Oats - Porridge
+202129153: 840 - UPDATE
+202129153: importing = Cereals and Muesli/Toasted Wheat Flakes
+202129153: 841 - UPDATE
+202129153: importing = Dried Fruit/Apple Rings
+202129153: 842 - UPDATE
+202129153: importing = Dried Fruit/Banana Chips
+202129153: 843 - UPDATE
+202129153: importing = Dried Fruit/Coconut - Toasted & Sliced
+202129153: 844 - UPDATE
+202129153: importing = Dried Fruit/Dates
+202129153: 845 - UPDATE
+202129153: importing = Dried Fruit/Mango Slices
+202129153: 846 - UPDATE
+202129153: importing = Dried Fruit/Raisins, Seedless (Sunflower Oil)
+202129153: 847 - UPDATE
+202129153: importing = Dried Fruit/Sultanas (Sunflower Oil)
+202129153: 848 - UPDATE
+202129153: importing = Fresh Fruit and Veg/Avocado
+202129153: 908 - UPDATE
+202129153: importing = Fresh Fruit and Veg/Bananas
+202129153: 883 - UPDATE
+202129153: importing = Fresh Fruit and Veg/Beetroot Net
+202129153: 888 - UPDATE
+202129153: importing = Fresh Fruit and Veg/Button mushrooms
+202129153: 895 - UPDATE
+202129153: importing = Fresh Fruit and Veg/Carrots
+202129153: 889 - UPDATE
+202129153: importing = Fresh Fruit and Veg/Celery
+202129153: 885 - UPDATE
+202129153: importing = Fresh Fruit and Veg/Courgettes
+202129153: 886 - UPDATE
+202129153: importing = Fresh Fruit and Veg/Cucumbers
+202129153: 884 - UPDATE
+202129153: importing = Fresh Fruit and Veg/Golden Delicious Apples
+202129153: 882 - UPDATE
+202129153: importing = Fresh Fruit and Veg/Lemons
+202129153: 890 - UPDATE
+202129153: importing = Fresh Fruit and Veg/Limes
+202129153: 891 - UPDATE
+202129153: importing = Fresh Fruit and Veg/Pineapples
+202129153: 892 - UPDATE
+202129153: importing = Fresh Fruit and Veg/Red Onions
+202129153: 894 - UPDATE
+202129153: importing = Fresh Fruit and Veg/Root Ginger
+202129153: 887 - UPDATE
+202129153: importing = Fresh Fruit and Veg/Sweet Potato
+202129153: 893 - UPDATE
+202129153: importing = Grains and Seeds/Chia Seeds
+202129153: 909 - UPDATE
+202129153: importing = Grains and Seeds/Cous Cous(Wholemeal)
+202129153: 849 - UPDATE
+202129153: importing = Grains and Seeds/Gourmet Seed Mix
+202129153: 850 - UPDATE
+202129153: importing = Grains and Seeds/Maftoul
+202129153: 851 - UPDATE
+202129153: importing = Grains and Seeds/Popcorn
+202129153: 852 - UPDATE
+202129153: importing = Grains and Seeds/Red Quinoa
+202129153: 853 - UPDATE
+202129153: importing = Nuts/Almonds - Whole
+202129153: 854 - UPDATE
+202129153: importing = Nuts/Brazils - Whole
+202129153: 855 - UPDATE
+202129153: importing = Nuts/Cashews - Whole
+202129153: 856 - UPDATE
+202129153: importing = Nuts/Hazelnuts - Whole
+202129153: 857 - UPDATE
+202129153: importing = Nuts/Peanuts - Paleskin
+202129153: 858 - UPDATE
+202129153: importing = Nuts/Pinenuts
+202129153: 859 - UPDATE
+202129153: importing = Nuts/Pistachios - raw kernels
+202129153: 860 - UPDATE
+202129153: importing = Nuts/Pistachios - raw kernels
+202129153: 860 - UPDATE
+202129153: importing = Nuts/Walnuts - (Halves)
+202129153: 861 - UPDATE
+202129153: importing = Pasta and Rice/Arborio White Rice
+202129153: 862 - UPDATE
+202129153: importing = Pasta and Rice/Arborio White Rice
+202129153: 862 - UPDATE
+202129153: importing = Pasta and Rice/Basmati Brown
+202129153: 863 - UPDATE
+202129153: importing = Pasta and Rice/Basmati Brown
+202129153: 863 - UPDATE
+202129153: importing = Pasta and Rice/Basmati White
+202129153: 864 - UPDATE
+202129153: importing = Pasta and Rice/Basmati White
+202129153: 864 - UPDATE
+202129153: importing = Pasta and Rice/Gluten Free Fusilli
+202129153: 910 - UPDATE
+202129153: importing = Pasta and Rice/Gluten Free Small Shells
+202129153: 911 - UPDATE
+202129153: importing = Pasta and Rice/Gluten Free Vermicelli Noodles
+202129153: 912 - UPDATE
+202129153: importing = Pasta and Rice/Gourmet Rice Mix
+202129153: 865 - UPDATE
+202129153: importing = Pasta and Rice/White Fusilli
+202129153: 866 - UPDATE
+202129153: importing = Pasta and Rice/White Penne
+202129153: 867 - UPDATE
+202129153: importing = Pasta and Rice/Wholewheat Penne
+202129153: 868 - UPDATE
+202129153: importing = Pasta and Rice/Wholewheat Spelt Penne
+202129153: 869 - UPDATE
+202129153: importing = Pulses/Brown Lentils
+202129153: 870 - UPDATE
+202129153: importing = Pulses/Chickpeas
+202129153: 871 - UPDATE
+202129153: importing = Pulses/Dark Speckled Lentils
+202129153: 872 - UPDATE
+202129153: importing = Pulses/Green Lentils
+202129153: 873 - UPDATE
+202129153: importing = Pulses/Red Split Lentils
+202129153: 874 - UPDATE
+202129153: importing = Pulses/Red Split Lentils
+202129153: 874 - UPDATE
+202129153: importing = Pulses/Speckled Lentils
+202129153: 875 - UPDATE
+202129153: importing = Snacks and Mixes/Bombay Mix
+202129153: 876 - UPDATE
+202129153: importing = Snacks and Mixes/Bombay Mix
+202129153: 876 - UPDATE
+202129153: importing = Snacks and Mixes/Fruit & Nut Mix
+202129153: 877 - UPDATE
+202129153: importing = Snacks and Mixes/Yoghurt Coated Apricots
+202129153: 878 - UPDATE
+202129153: importing = Snacks and Mixes/Yoghurt Coated Peanuts
+202129153: 879 - UPDATE
+202129153: importing = Snacks and Mixes/Yoghurt Coated Raisins
+202129153: 880 - UPDATE
+202129153: importing = TVP/Textured Vegetable Protein Mince - Plain
+202129153: 913 - UPDATE
+202129153: importing = Herbs and Spices/Mixed Herbs
+202129153: 914 - UPDATE
+202129153: importing = Household/Bio-D Floor Cleaner with Linseed Oil
+202129153: 915 - UPDATE
+202129153: importing = Household/Greencane Toilet Paper
+202129153: 916 - UPDATE
+202129153: importing = Tea/Clipper Organic Teabags - 80
+202129153: 917 - UPDATE
+202129153: 

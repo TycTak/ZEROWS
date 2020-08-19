@@ -1,0 +1,343 @@
+# Version: 1.02
+# Build: ?
+# Support: support@tyctak.com
+# Owner: TycTak Ltd
+# Developer: Mike Clark
+# Copyright: TycTak Ltd - All Rights Reserved
+
+import MySQLdb
+from lib import sh
+import os, json, sys, time, os.path, datetime, traceback, serial, shlex
+from subprocess import Popen, PIPE
+
+def getScalesData_OHAUS(rawWeight):
+	weight = 0
+	idx = rawWeight.find('g')
+
+	try:
+	        weight = weight + int(rawWeight[0:idx].strip())
+	except:
+		pass
+
+	return weight
+
+
+def getPrinter(printerKey):
+	cnt = 1
+
+	while True:
+		try:
+			process = Popen(['lsusb'], stdout=PIPE)
+			out, err = process.communicate()
+			retval = 'E022'
+			if (err == None):
+				for line in out.splitlines():
+					line = line.strip()
+					findLine = str(line)
+					if (findLine.find(printerKey) > 0):
+						retval = 'OK'
+						break
+			writePrinterStatus(retval)
+			break
+		except:
+			cnt = cnt + 1
+			coutn('Printer device FAILED TO OPEN - retrying (' + str(cnt) + ')')
+			getException()
+			writePrinterStatus('E022')
+			time.sleep(2)
+
+def getScanner():
+        cnt = 1
+        port = 0
+
+        while True:
+                try:
+                        if (port == 4):
+                                port = 0
+                        deviceName = sh.usbDevice
+                        deviceName = deviceName.replace('?', str(port))
+                        fp = open(deviceName, 'rb')
+                        coutn('Scanner device ' + deviceName + ' open (retries ' + str(cnt) + ')')
+                        writeScannerStatus('OK')
+                        break
+                except:
+                        port = port + 1
+                        cnt = cnt + 1
+                        coutn('Scanner device ' + deviceName + ' FAILED TO OPEN - retrying (' + str(cnt) + ')')
+                        getException()
+                        writeScannerStatus('E006')
+                        time.sleep(2)
+
+        return fp
+
+
+def getScales():
+        cnt = 1
+        port = 0
+
+        while True:
+                try:
+                        if (port == 4):
+                                port = 0
+                        deviceName = sh.usbDevice
+                        deviceName = deviceName.replace('?', str(port))
+
+                        ser = serial.Serial(
+                            port=deviceName,
+                            baudrate = 2400,
+                            parity=serial.PARITY_NONE,
+                            stopbits=serial.STOPBITS_ONE,
+                            bytesize=serial.SEVENBITS,
+                            timeout=None
+                        )
+
+                        coutn('Scales device ' + deviceName + ' requested, really opened=' + ser.name + ', isopen=' + str(ser.is_open) + ' (retries ' + str(cnt) + ')')
+                        writeScalesStatus('OK')
+                        break
+                except:
+                        port = port + 1
+                        cnt = cnt + 1
+
+                        coutn('Scales device ' + deviceName + ' FAILED TO OPEN - retrying (' + str(cnt) + ')')
+                        getException()
+                        writeScalesStatus('E007')
+                        time.sleep(2)
+
+        return ser
+
+
+def getException():
+        line()
+        coutn('Trapped Exception')
+        coutn()
+        if sh.traceFilePath != None and sh.traceFilePath != '':
+                createFile(sh.traceFilePath)
+                f = open(sh.traceFilePath, 'a+')
+                traceback.print_exc(file=f)
+                f.close()
+        traceback.print_exc()
+
+
+def line():
+        coutn('=====================================================================')
+
+
+def copyright():
+        line()
+        coutn('Copyright TycTak Ltd 2019 - All rights reserved')
+        coutn('Developer - Mike Clark - mike@tyctak.com')
+        line()
+
+
+def getArgValue(args, key, default=None):
+        value = default
+        if (key in args):
+                i = args.index(key)
+                if i < len(args)-1:
+                        value = args[i + 1]
+        elif default == None:
+                raise KeyError('Key [{0}] does not exist'.format(key))
+        return value
+
+
+def overwriteFile(filePath, value):
+        dir = os.path.dirname(filePath)
+        if dir != '':
+                createDir(dir)
+        if not os.path.isfile(filePath):
+                f = open(filePath, 'w')
+                f.write(value)
+                f.flush()
+                f.close()
+
+
+def createDir(dirPath):
+        if not os.path.exists(dirPath):
+                os.makedirs(dirPath)
+
+
+def openDb():
+        if sh.dbc == None:
+                sh.dbc = MySQLdb.connect(sh.dbServer, sh.dbUserId, sh.dbPassword, sh.dbName)
+                sh.dbc.autocommit(False)
+
+        try:
+                cur = sh.dbc.cursor()
+                cur.execute('SELECT VERSION();')
+        except:
+                sh.dbc = MySQLdb.connect(sh.dbServer, sh.dbUserId, sh.dbPassword, sh.dbName)
+
+
+def closeDb():
+        sh.dbc.close()
+
+
+def writeBarcode(barcode, tme):
+        openDb()
+
+        try:
+                cur = sh.dbc.cursor()
+                sh.dbc.begin()
+                sql = 'UPDATE system SET barcode = %s, barcodetime = %s'
+                cur.execute(sql, (barcode, tme))
+                sh.dbc.commit()
+                cur.close()
+        except:
+                sh.dbc.rollback()
+                cur.close()
+                raise
+
+
+def writeWeight(weight, status, tme):
+        openDb()
+
+        try:
+                cur = sh.dbc.cursor()
+
+                #weight = 235 #int(weightRaw[2:10])
+                #status = 0
+
+                #if (weightRaw[18] != '?'):
+                #    status = 1
+
+                sh.dbc.begin()
+                sql = 'UPDATE system SET weight = %s, weighttime = %s, weightstatus = %s'
+                cur.execute(sql, (weight, tme, status))
+                sh.dbc.commit()
+                cur.close()
+        except:
+                sh.dbc.rollback()
+                cur.close()
+                raise
+
+
+def writeScalesStatus(statuscode):
+        openDb()
+
+        try:
+                cur = sh.dbc.cursor()
+                sh.dbc.begin()
+                tme = int(time.time())
+                sql = 'UPDATE system SET scalesstatus = %s, scalestime = %s'
+                cur.execute(sql, (statuscode, tme))
+                sh.dbc.commit()
+                cur.close()
+        except:
+                sh.dbc.rollback()
+                cur.close()
+                raise
+
+
+def writeSystemStatus(statuscode):
+        openDb()
+
+        try:
+                cur = sh.dbc.cursor()
+                sh.dbc.begin()
+                tme = int(time.time())
+                sql = 'UPDATE system SET systemstatus = %s, systemtime = %s'
+                cur.execute(sql, (statuscode, tme))
+                sh.dbc.commit()
+                cur.close()
+        except:
+                sh.dbc.rollback()
+                cur.close()
+                raise
+
+
+def writePrinterStatus(statuscode):
+        openDb()
+
+        try:
+                cur = sh.dbc.cursor()
+                sh.dbc.begin()
+                tme = int(time.time())
+                sql = 'UPDATE system SET printerstatus = %s, printertime = %s'
+                cur.execute(sql, (statuscode, tme))
+                sh.dbc.commit()
+                cur.close()
+        except:
+                sh.dbc.rollback()
+                cur.close()
+                raise
+
+
+def writeScannerStatus(statuscode):
+        openDb()
+
+        try:
+                cur = sh.dbc.cursor()
+                sh.dbc.begin()
+                tme = int(time.time())
+                sql = 'UPDATE system SET scannerstatus = %s, scannertime = %s'
+                cur.execute(sql, (statuscode, tme))
+                sh.dbc.commit()
+                cur.close()
+        except:
+                sh.dbc.rollback()
+                cur.close()
+                raise
+
+
+def coutn(s=''):
+        value = '\n' + str(s)
+        sys.stdout.write(value)
+        sys.stdout.flush()
+        if sh.traceFilePath != None and sh.traceFilePath != '':
+                createFile(sh.traceFilePath)
+                f = open(sh.traceFilePath, 'a+')
+                f.write(value)
+                f.close()
+
+
+def cout(s):
+        value = str(s)
+        sys.stdout.write(value)
+        sys.stdout.flush()
+        if sh.traceFilePath != None and sh.traceFilePath != '':
+                createFile(sh.traceFilePath)
+                f = open(sh.traceFilePath, 'a+')
+                f.write(value)
+                f.close()
+
+
+def writeFile(filePath, value):
+        createFile(filePath)
+        f = open(filePath, 'a+')
+        f.write(value)
+        f.close()
+
+
+def createTrace():
+        if sh.traceFilePath != None and sh.traceFilePath != '':
+            writeFile(sh.traceFilePath, '\nCreating trace file')
+
+
+def createFile(filePath):
+        dir = os.path.dirname(filePath)
+        if dir != '':
+            createDir(dir)
+        if not os.path.isfile(filePath):
+            f = open(filePath, 'a+')
+            f.write('')
+            f.close()
+
+
+def loadJsonFile(jsonPath, isMandatory=True):
+        jsonFile = {}
+        if os.path.isfile(jsonPath):
+                with open(jsonPath) as jsonStream:
+                    jsonFile = json.load(jsonStream)
+        elif isMandatory:
+                raise RuntimeError('File [{0}] not found'.format(jsonPath))
+        return jsonFile
+
+
+def getJsonValue(jsonFile, key, default=None):
+        value = default
+        if key in jsonFile:
+            value = jsonFile[key]
+        elif default == None:
+            raise KeyError('Key [{0}] does not exist'.format(key))
+        return value
+

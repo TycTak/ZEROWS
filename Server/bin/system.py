@@ -1,0 +1,242 @@
+#!/usr/bin/python3
+
+# Build: 77
+# Support: support@tyctak.com
+# Owner: TycTak Ltd
+# Developer: Mike Clark
+# Copyright: TycTak Ltd - All Rights Reserved
+
+from lib import common as cm
+from lib import sh
+import os, sys, datetime, time, binascii
+from subprocess import Popen, PIPE
+
+def removeFile(filePath):
+        retval = False
+
+        try:
+                if (os.path.isfile(filePath)):
+                        process = Popen(['sudo', 'rm', filePath], stdout=PIPE)
+               	        out, err = process.communicate()
+
+                       	if (process.returncode == 0):
+                                cm.coutn('Removed {0}'.format(filePath))
+                               	retval = True
+
+        except:
+                cm.getException()
+                raise
+
+        return retval
+
+
+def importProducts(productListPath):
+        retval = False
+
+        try:
+                cmd = os.path.dirname(os.path.realpath(__file__)) + "/products.py"
+                process = Popen([cmd, productListPath], stdout=PIPE)
+                out, err = process.communicate()
+
+                if (process.returncode == 0):
+                        retval = True
+
+        except:
+                cm.getException()
+                raise
+
+        return retval
+
+#def restoreBuild(releaseZipPath, releaseCode):
+#        retval = False
+#
+#        try:
+#                releaseZipPath = "/var/www/html/release/" + releaseZipPath
+#                cmd = os.path.dirname(os.path.realpath(__file__)) + "/restorebuild.sh"
+#                process = Popen(['sudo', cmd, '-f', releaseZipPath, '-p', releaseCode], stdout=PIPE)
+#                out, err = process.communicate()
+#
+#                if (process.returncode == 0):
+#                        cm.coutn(out.decode("utf-8"))
+#                        retval = True
+#                else:
+#                        cm.coutn("zipFile=" + releaseZipPath)
+#                        cm.coutn("releaseCode=" + releaseCode)
+#                        cm.coutn(out.decode("utf-8"))
+#
+#        except:
+#                cm.getException()
+#                raise
+#
+#        return retval
+
+
+def checkRunModule(key, dbUser, dbPassword):
+	retval = False
+
+	try:
+		cmd = os.path.dirname(os.path.realpath(__file__)) + "/runmodule.py"
+		process = Popen([cmd,'-q', 'true', '-k', key, '-u', dbUser, '-p', dbPassword], stdout=PIPE)
+		out, err = process.communicate()
+
+		if (process.returncode == 0):
+			retval = True
+
+	except:
+		cm.getException()
+		raise
+
+	return retval
+
+def checkModuleRunning(key):
+	retval = False
+
+	try:
+		cmd = "/etc/init.d/" + key + ".sh"
+		process = Popen([cmd, 'status'], stdout=PIPE)
+		out, err = process.communicate()
+
+		if (process.returncode == 0):
+			if (out.decode().find("Active: active (running)") > 0):
+				retval = True
+
+	except:
+		cm.getException()
+		raise
+
+	return retval
+
+
+# PREPARE
+################################################################
+
+binDirectory = os.path.dirname(sys.argv[0])
+jsonConfigPath = cm.getArgValue(sys.argv, '-f', '/home/pi/data/config.json'.format(binDirectory))
+
+# CONFIGURE
+##########################################################
+
+cm.copyright()
+cm.coutn('Responding to scales')
+cm.coutn('System date: {0}'.format(datetime.datetime.now()))
+cm.coutn('Locating configuration information')
+
+# LOAD CONFIG
+##########################################################
+
+jsonConfigFile = cm.loadJsonFile(jsonConfigPath)
+
+releaseDirectory = cm.getJsonValue(jsonConfigFile, 'releaseDirectory', '/var/www/html/release/')
+productDirectory = cm.getJsonValue(jsonConfigFile, 'productDirectory', '/var/www/html/release/')
+productList = cm.getJsonValue(jsonConfigFile, 'productList', 'products.json')
+productListPath = '{0}{1}'.format(productDirectory, productList)
+sh.traceDirectory = cm.getJsonValue(jsonConfigFile, 'traceDirectory', '/home/pi/bin/trace/')
+sh.traceFile = cm.getJsonValue(jsonConfigFile, 'traceSystem', 'system.log')
+cm.configTrace()
+
+cm.createTrace()
+
+cm.coutn('Configuration information loaded')
+
+# DEBUG
+##########################################################
+
+cm.coutn('sh.now = {0}'.format(sh.now))
+cm.coutn('releaseDirectory = {0}'.format(releaseDirectory))
+cm.coutn('productList = {0}'.format(productList))
+cm.coutn('productListPath = {0}'.format(productListPath))
+cm.coutn('sh.traceDirectory = {0}'.format(sh.traceDirectory))
+cm.coutn('sh.traceFile = {0}'.format(sh.traceFile))
+cm.coutn('sh.traceFilePath = {0}'.format(sh.traceFilePath))
+
+# DB
+##########################################################
+
+cm.coutn('Assigning database')
+
+sh.dbServer = cm.getJsonValue(jsonConfigFile, 'dbServer', '127.0.0.1')
+sh.dbName = cm.getJsonValue(jsonConfigFile, 'dbName', 'rpidb')
+sh.dbUserId = cm.getJsonValue(jsonConfigFile, 'dbUserId', 'tyctak')
+sh.dbPassword = cm.getJsonValue(jsonConfigFile, 'dbPassword', '')
+
+cm.coutn('dbServer = {0}'.format(sh.dbServer))
+cm.coutn('dbName = {0}'.format(sh.dbName))
+cm.coutn('dbUserId = {0}'.format(sh.dbUserId))
+cm.coutn('dbPassword = ***********')
+
+cm.coutn('Database assigned')
+
+# SYSTEM
+##########################################################
+
+cm.createDir(releaseDirectory)
+cm.coutn('START > ')
+
+# MAIN LOOP
+##########################################################
+
+prevErrorCode = ''
+
+while True:
+	try:
+		cm.configTrace()
+
+		errorCode = 'OK'
+
+		if (not checkRunModule('page', sh.dbUserId, sh.dbPassword)):
+			errorCode = 'E027'
+			cm.coutn("Page modules failed software verification")
+
+		if (not checkModuleRunning('scanner')):
+			errorCode = 'E028'
+			cm.coutn("Scanner is not loaded")
+
+		if (not checkModuleRunning('scales')):
+			errorCode = 'E029'
+			cm.coutn("Scales is not loaded")
+
+		if (not checkModuleRunning('printer')):
+			errorCode = 'E030'
+			cm.coutn("Printer is not loaded")
+
+		# REMOVE OLD TRACE FILES
+
+#		releaseFile, installed, releaseCode = cm.getRelease()
+#
+#		if (installed == None):
+#			cm.coutn("Restore Build " + releaseFile)
+#			if (restoreBuild(releaseFile, releaseCode)):
+#				cm.coutn("Restore SUCCEEDED")
+#				cm.writeReleaseStatus()
+#			else:
+#				cm.coutn("Restore FAILED")
+
+		tme = int(time.time())
+		expiry = cm.getExpiry()
+
+		if (expiry <= tme):
+			errorCode = 'E031'
+			cm.coutn('EXPIRED exp=' + str(expiry) + ' - tme=' + str(tme))
+
+		cm.coutn(productListPath)
+
+		if (os.path.isfile(productListPath)):
+			cm.coutn('Import ProductList = {0}'.format(productListPath))
+			importProducts(productListPath)
+			removeFile(productListPath)
+			cm.coutn('IMPORTED')
+
+		if (errorCode != prevErrorCode):
+			cm.writeSystemStatus(errorCode)
+			prevErrorCode = errorCode
+
+		time.sleep(10)
+
+	except KeyError:
+		cm.coutn('Key error')
+		cm.writeSystemStatus('E026')
+		break
+	except:
+		cm.getException()
+		cm.writeSystemStatus('E026')
+		break

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorProgress">#FFC363</color>
+    <color name="editText">#87B5FF</color>
+    <color name="lineBreak">#43e165</color>
+    <color name="warning">#FF0000</color>
+    <color name="selectRow">#BCD6FF</color>
+    <color name="background">#F9F9F9</color>
+</resources>

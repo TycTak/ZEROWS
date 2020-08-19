@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragment_Header">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="center">
+
+            <ImageView
+                android:id="@+id/runProcess"
+                android:src="@drawable/ic_gear"
+                android:layout_marginTop="35dp"
+                android:layout_marginLeft="10dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:visibility="invisible"
+                android:layout_alignParentLeft="true"
+                android:onClick="btnRunProcess"/>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_centerInParent="true">
+
+                <ImageView
+                    android:id="@+id/logo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="60dp"
+                    android:layout_marginRight="60dp"
+                    android:layout_marginTop="30dp"
+                    android:layout_marginBottom="10dp"
+                    android:maxHeight="70sp"
+                    android:scaleType="fitEnd"
+                    android:adjustViewBounds="true"
+                    android:src="@drawable/ic_zerowslogo"/>
+
+                <TextView
+                    android:id="@+id/txtAppTitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="ZERO Waste Scales Till"
+                    android:textColor="@android:color/black"
+                    android:textSize="16sp"
+                    android:textStyle="italic"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="-8dp"
+                    android:layout_marginBottom="5dp"/>
+
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/btnCancel"
+                android:src="@drawable/ic_cancel"
+                android:layout_marginTop="45dp"
+                android:layout_marginRight="10dp"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:visibility="invisible"
+                android:layout_alignParentRight="true"
+                android:onClick="btnCancel"/>
+
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_gravity="center"
+            android:layout_height="3dp"
+            android:layout_marginBottom="5dp"
+            android:background="@color/lineBreak"/>
+
+    </LinearLayout>
+
+</FrameLayout>

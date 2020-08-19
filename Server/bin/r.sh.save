@@ -1,0 +1,152 @@
+#!/bin/bash
+# v1.03
+
+function createdir() {
+	if [ ! -d "$1" ]; then mkdir $1; echo "$1 created"; fi
+}
+
+DBUSER=production
+DBPASS=kehiengc
+ZIPFILE=
+PASSWORD=
+LDIRS=
+LSQL=
+HOMEDIR=/home/pi
+
+echo "Restore Build for Zero Waste Scales"
+
+while getopts f:p: opt; do
+	case $opt in
+		f)
+			ZIPFILE=$OPTARG
+			;;
+		p)
+			PASSWORD=$OPTARG
+			;;
+		\?)
+			echo "Invalid option"
+			;;
+	esac
+done
+
+if [ -z "$ZIPFILE" ]
+then
+	read -p "Exact name & path of restore zip file? " ZIPFILE
+fi
+
+if [ -f "$ZIPFILE" ]
+then
+	if [ -z "$PASSWORD" ]
+	then
+		read -p "Password for zip file? " PASSWORD
+	fi
+
+	export IFS=";"
+
+	echo "Unzipping build file..."
+	FILENAME=$(basename -- $ZIPFILE)
+	createdir $HOMEDIR/release
+	cp $ZIPFILE -d $HOMEDIR/release
+	unzip -o $HOMEDIR/release/$FILENAME -d $HOMEDIR/release restorebuild.sh
+	unzip -P $PASSWORD -o $HOMEDIR/release/$FILENAME -d $HOMEDIR/release
+
+	#CONFIRM=$(more $HOMEDIR/release/modules.json)
+	CONFIRM=$(more /home/pi/release/modules.json | grep zipfile | awk '{ print $2 }' | sed s/\"//g | sed s/,//g)
+	#CONFIRM=$(more $HOMEDIR/release/modules.json | sed -e 's/[{}]/''/g' | sed s/\"//g | awk -v RS=',' -F: '$1=="zipfile"{print $2}')
+	#CONFIRM=$(sudo jq -r '.zipfile' $HOMEDIR/release/modules.json)
+	#CONFIRM=$(more /home/pi/release/modules.json | jq -r '.zipfile')
+
+	echo "[$CONFIRM]"
+	echo "[$FILENAME]"
+	echo "[$ZIPFILE]"
+
+	if [ "$CONFIRM" == "$FILENAME" ]
+	then
+		echo "Build file unzipped"
+
+		echo "Check restorebuild.sh version"
+		REST1=$(awk '{if(NR==2) print $0}' $HOMEDIR/bin/restorebuild.sh)
+		REST2=$(awk '{if(NR==2) print $0}' $HOMEDIR/release/restorebuild.sh)
+
+		echo "[$REST1]"
+		echo "[$REST2]"
+
+		if [ "$REST1" == "$REST2" ]
+		then
+#			echo "Extracting module information..."
+#			LDIRS=$(more $HOMEDIR/release/modules.json | jq -r '.dir | map(.dir) | join(";")')
+#			LSQLS=$(more $HOMEDIR/release/modules.json | jq -r '.sql | map(.cmd) | join(";")')
+#			echo "Module information extracted"
+#
+#			echo "Creating folders..."
+#			for dir in $LDIRS; do
+#				createdir "$dir"
+#			done
+#			echo "Folders created"
+#
+#			echo "Copying files..."
+#			sudo cp $HOMEDIR/release/*.php /var/www/html
+#			sudo cp $HOMEDIR/release/*.png /var/www/html
+#			sudo cp $HOMEDIR/release/*.ttf /var/www/html
+#			sudo cp $HOMEDIR/release/.htaccess /var/www/html
+#			cp $HOMEDIR/release/*.json $HOMEDIR/data
+#			cp $HOMEDIR/release/*.py $HOMEDIR/bin
+#			cp $HOMEDIR/release/common.py $HOMEDIR/bin/lib
+#			cp $HOMEDIR/release/sh.py $HOMEDIR/bin/lib
+#			cp $HOMEDIR/release/bash_variables.sh $HOMEDIR/bin
+#			rm $HOMEDIR/bin/common.py
+#			rm $HOMEDIR/bin/sh.py
+#			echo "Files copied"
+#
+#			echo "Installing services..."
+#			sudo /etc/init.d/scanner.sh stop
+#			sudo /etc/init.d/scales.sh stop
+#			sudo /etc/init.d/printer.sh stop
+#			sudo /etc/init.d/system.sh stop
+#			sudo cp $HOMEDIR/release/*.sh /etc/init.d
+#			echo "Services installed"
+#
+#			echo "Setting execution permissions and ownership..."
+#			sudo chown -R www-data:www-data /var/www/html
+#			chmod +x $HOMEDIR/bin/*.py
+#			chmod +x $HOMEDIR/bin/*.sh
+#			chmod +x $HOMEDIR/bin/lib/*.py
+#			sudo chmod +x /etc/init.d/scales.sh
+#			sudo chmod +x /etc/init.d/scanner.sh
+#			sudo chmod +x /etc/init.d/system.sh
+#			sudo chmod +x /etc/init.d/printer.sh
+#			echo "Execution permissions and ownership set"
+#
+#			echo "Executing SQL statements..."
+#			for sql in $LSQLS; do
+#				mysql -u $DBUSER --password=$DBPASS --database=rpidb -e $sql
+#			done
+#			echo "SQL executed"
+#
+#			echo "Starting services..."
+#			sudo update-rc.d scales.sh defaults
+#			sudo update-rc.d scanner.sh defaults
+#			sudo update-rc.d system.sh defaults
+#			sudo update-rc.d printer.sh defaults
+#			sudo systemctl daemon-reload
+#			sudo /etc/init.d/scanner.sh start
+#			sudo /etc/init.d/scales.sh start
+#			sudo /etc/init.d/printer.sh start
+#			sudo /etc/init.d/system.sh start
+#			echo "Services started"
+#
+#			echo "Completed..."
+			exit 0
+		else
+			cp $HOMEDIR/release/restorebuild.sh $HOMEDIR/bin
+			echo "Restore Build has been updated - please run restorebuild.sh again"
+			exit 2
+		fi
+	else
+		echo "Unable to unzip Build file"
+		exit 1
+	fi
+else
+	echo "FAIL: No zip file found"
+	exit 1
+fi

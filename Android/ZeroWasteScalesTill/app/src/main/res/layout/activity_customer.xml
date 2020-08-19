@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity_Customer">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center|top"
+        tools:ignore="MissingConstraints">
+
+        <fragment
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:name="com.tyctak.zerowastescalestill.Fragment_Header"
+            android:id="@+id/customer_header"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginTop="-5dp"
+            android:layout_marginLeft="10dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <RelativeLayout
+                    android:id="@+id/payLayout"
+                    android:layout_width="360dp"
+                    android:layout_marginTop="-3dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="5dp"
+                    android:layout_alignParentRight="true"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:id="@+id/imageReward"
+                        android:layout_width="50dp"
+                        android:layout_height="55dp"
+                        android:layout_marginTop="8dp"
+                        android:layout_marginLeft="-4dp"
+                        android:layout_marginRight="-2dp"
+                        android:src="@drawable/ic_reward_disabled"
+                        android:gravity="left"
+                        android:onClick="btnReward"/>
+
+                    <LinearLayout
+                        android:id="@+id/llTotalPrice"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:layout_marginLeft="50dp"
+                        android:layout_marginTop="-6dp">
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal">
+
+                            <LinearLayout
+                                android:tag="llCurrencySymbol"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:orientation="horizontal"
+                                android:layout_gravity="left"
+                                android:background="@color/colorAccent">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:textSize="48dp"
+                                    android:gravity="left"
+                                    android:text="£"/>
+
+                                <!-- insert CURRENCY SYMBOL here -->
+
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:tag="llPaymentTotal"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:orientation="horizontal"
+                                android:layout_gravity="right">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:textSize="48sp"
+                                    android:gravity="right"
+                                    android:maxLines="1"
+                                    android:clickable="false"
+                                    android:layout_marginRight="100dp"/>
+
+                                <!-- insert PAYMENT TOTAL here -->
+
+                            </LinearLayout>
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:layout_marginTop="-10dp">
+
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:orientation="horizontal"
+                                android:layout_marginRight="7dp"
+                                android:gravity="center_vertical">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:textSize="12sp"
+                                    android:layout_marginRight="3dp"
+                                    android:textColor="@color/lineBreak"
+                                    android:maxLines="1"
+                                    android:text="Gross"/>
+
+                                <LinearLayout
+                                    android:tag="llBeforeDiscount"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="horizontal"
+                                    android:layout_marginTop="-2dp">
+
+                                    <!-- insert BEFORE DISCOUNT here -->
+
+                                </LinearLayout>
+
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:orientation="horizontal"
+                                android:layout_marginRight="15dp"
+                                android:id="@+id/rewardDiscount"
+                                android:gravity="center_vertical"
+                                android:layout_marginTop="-1dp">
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:textSize="12sp"
+                                    android:layout_marginRight="3dp"
+                                    android:textColor="@color/lineBreak"
+                                    android:maxLines="1"
+                                    android:text="Saving"/>
+
+                                <LinearLayout
+                                    android:tag="llSaving"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="horizontal"
+                                    android:layout_marginTop="-2dp">
+
+                                    <!-- insert SAVING here -->
+
+                                </LinearLayout>
+
+                            </LinearLayout>
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+                    <Button
+                        android:id="@+id/btnPay"
+                        android:background="@drawable/custom_special"
+                        android:onClick="btnPay"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="7dp"
+                        android:layout_width="80dp"
+                        android:layout_marginTop="9dp"
+                        android:text="PAY"
+                        android:enabled="false"
+                        android:layout_alignParentRight="true"
+                        style="@style/custom_submit_style"/>
+
+                </RelativeLayout>
+
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="0dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="0dp"
+                    android:orientation="horizontal">
+
+                    <Button
+                        android:id="@+id/btnSearchType"
+                        android:onClick="btnSearchType"
+                        android:text="Weighed"
+                        android:layout_width="115dp"
+                        android:layout_marginBottom="5dp"
+                        style="@style/custom_button_tab_style"/>
+
+                    <LinearLayout
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:orientation="horizontal">
+
+                        <ImageView
+                            android:id="@+id/imageRefresh"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_marginLeft="2dp"
+                            android:layout_marginTop="3dp"
+                            android:layout_gravity="center_vertical"
+                            android:onClick="btnRefresh"
+                            android:src="@drawable/ic_refresh" />
+
+                        <ProgressBar
+                            android:id="@+id/imageRefreshProgress"
+                            style="?android:attr/progressBarStyleLarge"
+                            android:layout_marginTop="3dp"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_gravity="center_vertical"
+                            android:visibility="gone"/>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="51dp"
+                        android:orientation="vertical"
+                        android:layout_marginTop="4dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginRight="8dp"
+                        android:background="@drawable/custom_input">
+
+                        <RelativeLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal">
+
+                            <ImageView
+                                android:layout_width="30dp"
+                                android:layout_height="30dp"
+                                android:layout_marginLeft="3dp"
+                                android:layout_marginTop="4dp"
+                                android:src="@drawable/ic_search"/>
+
+                            <EditText
+                                android:id="@+id/txtProductSearch"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="37dp"
+                                android:layout_marginRight="25dp"
+                                android:maxLength="15"
+                                android:selectAllOnFocus="true"
+                                android:inputType="textCapCharacters|text|textNoSuggestions"
+                                android:textSize="16dp"/>
+
+                            <ImageView
+                                android:layout_width="30dp"
+                                android:layout_height="30dp"
+                                android:layout_marginLeft="3dp"
+                                android:layout_marginTop="4dp"
+                                android:src="@drawable/ic_search"/>
+
+                        </RelativeLayout>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:layout_marginTop="3dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:weightSum="2">
+
+            <LinearLayout
+                android:id="@+id/llSearch"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_weight="1">
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/search_flow"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:nestedScrollingEnabled="false"
+                    android:scrollbars="vertical"
+                    android:fadeScrollbars="false"
+                    android:scrollbarStyle="outsideInset"
+                    android:scrollbarAlwaysDrawVerticalTrack="true"
+                    android:scrollbarThumbVertical="@drawable/scrollbar_vertical_thumb"
+                    android:scrollbarTrackVertical="@drawable/scrollbar_vertical_track"
+                    android:scrollbarSize="20dp"/>
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="5dp"
+                android:layout_height="match_parent"/>
+
+            <LinearLayout
+                android:id="@+id/llBasket"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_weight="1">
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/basket_flow"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:nestedScrollingEnabled="false"
+                    android:scrollbars="vertical"
+                    android:fadeScrollbars="false"
+                    android:scrollbarStyle="outsideInset"
+                    android:scrollbarAlwaysDrawVerticalTrack="true"
+                    android:scrollbarThumbVertical="@drawable/scrollbar_vertical_thumb"
+                    android:scrollbarTrackVertical="@drawable/scrollbar_vertical_track"
+                    android:scrollbarSize="20dp"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

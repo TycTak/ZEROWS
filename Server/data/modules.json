@@ -1,0 +1,345 @@
+{
+  "sql": [
+    {
+      "cmd": "ALTER TABLE `rpidb`.`purchases` ADD COLUMN `transactionid` VARCHAR(50) NULL AFTER `status`"
+    }
+  ],
+  "build": 94,
+  "ver": "1.0",
+  "modules": [
+    {
+      "name": "scanner.py",
+      "key": "scanner",
+      "cc": "1d7833aadbe457d931338a629dccd551",
+      "dir": "/home/pi/bin/"
+    },
+    {
+      "name": "scales.py",
+      "key": "scales",
+      "cc": "6d2703e2838c4dc769ba0e6b11306441",
+      "dir": "/home/pi/bin/"
+    },
+    {
+      "name": "printer.py",
+      "key": "printer",
+      "cc": "78a919320eeec7f965916051a5beaa60",
+      "dir": "/home/pi/bin/"
+    },
+    {
+      "name": "system.py",
+      "key": "system",
+      "cc": "1f30aafb8e792bac24507497b372c3b0",
+      "dir": "/home/pi/bin/"
+    },
+    {
+      "name": "products.py",
+      "key": "system",
+      "cc": "0b4838593a77426f4ae6c9ffe6821624",
+      "dir": "/home/pi/bin/"
+    },
+    {
+      "name": "runmodule.py",
+      "key": "library",
+      "cc": "6c308034b3ee0707e9bdcf8fc779a44f",
+      "dir": "/home/pi/bin/"
+    },
+    {
+      "name": "config.json",
+      "key": "library",
+      "cc": "e6b52f095784da5f6dbf1e9f2c045868",
+      "dir": "/home/pi/data/"
+    },
+    {
+      "name": "common.py",
+      "key": "library",
+      "cc": "06ef3ca10dc331445211413e555657a2",
+      "dir": "/home/pi/bin/lib/"
+    },
+    {
+      "name": "sh.py",
+      "key": "library",
+      "cc": "4d45180bbc614ff6b8b9679207d5e705",
+      "dir": "/home/pi/bin/lib/"
+    },
+    {
+      "name": "bash_variables.sh",
+      "key": "library",
+      "cc": "888b3359e939e39d7893858bbebf9223",
+      "dir": "/home/pi/bin/"
+    },
+    {
+      "name": "scanner.sh",
+      "key": "scanner",
+      "cc": "42da6bfae38211421f7c342506a028e6",
+      "dir": "/etc/init.d/"
+    },
+    {
+      "name": "scales.sh",
+      "key": "scales",
+      "cc": "4aecbc71e15497d5c07fe54b174694da",
+      "dir": "/etc/init.d/"
+    },
+    {
+      "name": "printer.sh",
+      "key": "printer",
+      "cc": "fcf4bdb319303d02ee3344861a0bd269",
+      "dir": "/etc/init.d/"
+    },
+    {
+      "name": "system.sh",
+      "key": "system",
+      "cc": "5a542aca9864ae67b039354249d6c749",
+      "dir": "/etc/init.d/"
+    },
+    {
+      "name": "container.php",
+      "key": "page",
+      "cc": "fcc0615edb05cca64d5536c0e96a1d34",
+      "dir": "/var/www/html/"
+    },
+    {
+      "name": "getconnection.php",
+      "key": "page",
+      "cc": "7ff88b385f568568f92e495e72deede4",
+      "dir": "/var/www/html/"
+    },
+    {
+      "name": "addreceipt.php",
+      "key": "page",
+      "cc": "8824b1230eb00a0cb1f66277bedf7ff3",
+      "dir": "/var/www/html/"
+    },
+    {
+      "name": "analysis.php",
+      "key": "page",
+      "cc": "548afeb4f8c72ea36e1d521d3a80db56",
+      "dir": "/var/www/html/"
+    },
+    {
+      "name": "extendexpiry.php",
+      "key": "page",
+      "cc": "e9d05b404ae7d136a3f6dc9ba0c84ab7",
+      "dir": "/var/www/html/"
+    },
+    {
+      "name": "install.php",
+      "key": "page",
+      "cc": "d16324be3de18b5519f99ae4d6839681",
+      "dir": "/var/www/html/"
+    },
+    {
+      "name": "categories.php",
+      "key": "page",
+      "cc": "b4db95141577e13473321b9bc679f2a3",
+      "dir": "/var/www/html/"
+    },
+    {
+      "name": "resetrelease.php",
+      "key": "page",
+      "cc": "8033116b671d39714255bd07bf584a08",
+      "dir": "/var/www/html/"
+    },
+    {
+      "name": "changeconfigpassword.php",
+      "key": "page",
+      "cc": "2daf85937eb2047922616914d9a20819",
+      "dir": "/var/www/html/"
+    },
+    {
+      "name": "changedatabase.php",
+      "key": "page",
+      "cc": "cc1466f981d87ee46fb178d21160b9c0",
+      "dir": "/var/www/html/"
+    },
+    {
+      "name": "backup.php",
+      "key": "page",
+      "cc": "f6d8efc012152ecfdde1f33c9cae7435",
+      "dir": "/var/www/html/"
+    },
+    {
+      "name": "changepassword.php",
+      "key": "page",
+      "cc": "4fff7ebb087196eb5a08a54aaadc8c23",
+      "dir": "/var/www/html/"
+    },
+    {
+      "name": "checkconfigpassword.php",
+      "key": "page",
+      "cc": "74fc501c3cc30edaf2d07cb81c00fc12",
+      "dir": "/var/www/html/"
+    },
+    {
+      "name": "sendproductlist.php",
+      "key": "page",
+      "cc": "c0af4c439ef18ca44558e6b3b0b1347f",
+      "dir": "/var/www/html/"
+    },
+    {
+      "name": "common.php",
+      "key": "page",
+      "cc": "2d713cf426c344fb93d4de33b42488e6",
+      "dir": "/var/www/html/"
+    },
+    {
+      "name": "genguidcontainer.php",
+      "key": "page",
+      "cc": "3f93393dcfa26425b63ea65e3697ed4a",
+      "dir": "/var/www/html/"
+    },
+    {
+      "name": "printcontainer.php",
+      "key": "page",
+      "cc": "f5fc674b7987a4a5457938655816ce4f",
+      "dir": "/var/www/html/"
+    },
+    {
+      "name": "printreceipt.php",
+      "key": "page",
+      "cc": "10e690deec7a030ef5867938a10ea612",
+      "dir": "/var/www/html/"
+    },
+    {
+      "name": "products.php",
+      "key": "page",
+      "cc": "8d4e4c4f8843322d594e73c63cba0189",
+      "dir": "/var/www/html/"
+    },
+    {
+      "name": "changereward.php",
+      "key": "page",
+      "cc": "a92abbeaf0652205679b5b1cf4c9a94b",
+      "dir": "/var/www/html/"
+    },
+    {
+      "name": "getreward.php",
+      "key": "page",
+      "cc": "510e6a54bbf08a65746b7f77b8827ea2",
+      "dir": "/var/www/html/"
+    },
+    {
+      "name": "listproducts.php",
+      "key": "page",
+      "cc": "0f3147f3a0c6a254c38593eee719331e",
+      "dir": "/var/www/html/"
+    },
+    {
+      "name": "calculate.php",
+      "key": "page",
+      "cc": "a0ae9acd474449ddfe6b281e1bb9e3ad",
+      "dir": "/var/www/html/"
+    },
+    {
+      "name": "status.php",
+      "key": "page",
+      "cc": "0fe5137ff3f6e3afe998cf5807393e50",
+      "dir": "/var/www/html/"
+    },
+    {
+      "name": "weight.php",
+      "key": "page",
+      "cc": "79873b8fd02c838fcaae4d4c3e4640f9",
+      "dir": "/var/www/html/"
+    },
+    {
+      "name": "gencontainerbarcode.php",
+      "key": "page",
+      "cc": "729c9c3bf3310748a3058020e252bc43",
+      "dir": "/var/www/html/"
+    },
+    {
+      "name": "genreceiptbarcode.php",
+      "key": "page",
+      "cc": "e22549e7fbf1dc9f80f798ba4ee02ecb",
+      "dir": "/var/www/html/"
+    },
+    {
+      "name": "updatereleasestatus.php",
+      "key": "page",
+      "cc": "d41bedc9644cb6ca306ecfd460eeaaa8",
+      "dir": "/var/www/html/"
+    },
+    {
+      "name": "getreleasestatus.php",
+      "key": "page",
+      "cc": "99da7ed37b0cd98814a1fbb1d923caae",
+      "dir": "/var/www/html/"
+    },
+    {
+      "name": "getclientstatus.php",
+      "key": "page",
+      "cc": "f8d870b44c0d32b2e235da1e449e1caa",
+      "dir": "/var/www/html/"
+    },
+    {
+      "name": "purchasestatus.php",
+      "key": "page",
+      "cc": "2a50b9a6b15aed91f70d1d14a625615c",
+      "dir": "/var/www/html/"
+    },
+    {
+      "name": "listpurchases.php",
+      "key": "page",
+      "cc": "6de9941524cb476587e1ce2555ce0465",
+      "dir": "/var/www/html/"
+    },
+    {
+      "name": "ping.php",
+      "key": "page",
+      "cc": "52ded57072fe4a23512feaa2ce775b9b",
+      "dir": "/var/www/html/"
+    },
+    {
+      "name": "importproducts.php",
+      "key": "page",
+      "cc": "b2213f06137f9c8583b3cfd785b32256",
+      "dir": "/var/www/html/"
+    },
+    {
+      "name": "sendrelease.php",
+      "key": "page",
+      "cc": "57746c85d6977729f6000de69e84dcf7",
+      "dir": "/var/www/html/"
+    },
+    {
+      "name": ".htaccess",
+      "key": "page",
+      "cc": "6d940c17dc4d953ab2b9a2eb26fa0c03",
+      "dir": "/var/www/html/"
+    },
+    {
+      "name": "arial.ttf",
+      "key": "page",
+      "cc": "6e7385fb7d6ceddf07b5a41e0bc2712d",
+      "dir": "/var/www/html/"
+    },
+    {
+      "name": "containertemplate.png",
+      "key": "page",
+      "cc": "45e77340d231426dcdd1652489ee2605",
+      "dir": "/var/www/html/"
+    }
+  ],
+  "dir": [
+    {
+      "dir": "/home/pi/bin"
+    },
+    {
+      "dir": "/home/pi/bin/lib"
+    },
+    {
+      "dir": "/var/www/html/release"
+    },
+    {
+      "dir": "/var/www/html/dump"
+    },
+    {
+      "dir": "/home/pi/trace"
+    },
+    {
+      "dir": "/home/pi/data"
+    }
+  ],
+  "built": "2019-05-11 19:43:03.682876",
+  "zipfile": "tyctak_20190511_00094.zip"
+}

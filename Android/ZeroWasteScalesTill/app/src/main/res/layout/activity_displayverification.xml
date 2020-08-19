@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    tools:context=".Activity_DisplayVerification">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center|top"
+        tools:ignore="MissingConstraints">
+
+        <fragment
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:name="com.tyctak.zerowastescalestill.Fragment_Header"
+            android:id="@+id/header"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="Home > Verification"/>
+
+        <TextView
+            android:text="Display verification information"
+            style="@style/custom_heading"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_gravity="center">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginBottom="5dp"
+                    android:orientation="horizontal">
+
+                    <Button
+                        android:id="@+id/btnCancel"
+                        android:onClick="btnCancel"
+                        android:text="CANCEL"
+                        style="@style/custom_submit_style"/>
+
+                </LinearLayout>
+
+                <ProgressBar
+                    android:id="@+id/pbLoading"
+                    style="@style/custom_progress_bar"
+                    android:visibility="visible"/>
+
+                <TextView
+                    android:id="@+id/txtMessage"
+                    android:text=""
+                    android:textSize="18dp"
+                    style="@style/custom_message_text_style"
+                    android:layout_marginBottom="0dp"
+                    android:visibility="visible"/>
+
+                <LinearLayout
+                    android:id="@+id/listItems"
+                    android:visibility="gone"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/txtVersion"
+                        android:text=""
+                        android:textSize="20dp"
+                        style="@style/custom_heading"/>
+
+                    <TextView
+                        android:id="@+id/txtBuilt"
+                        android:text=""
+                        android:layout_marginTop="-6dp"
+                        android:textSize="20dp"
+                        style="@style/custom_heading"/>
+
+                    <TextView
+                        android:id="@+id/txtPackage"
+                        android:text=""
+                        android:layout_marginTop="-6dp"
+                        android:textSize="20dp"
+                        style="@style/custom_heading"/>
+
+                    <LinearLayout
+                        android:layout_marginTop="5dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:layout_marginBottom="20dp">
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical"
+                            android:layout_weight="3">
+
+                            <!--android:scrollbars="vertical"-->
+                            <!--android:scrollbarAlwaysDrawVerticalTrack="true"-->
+
+                            <ListView android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:id="@+id/verificationListView"
+                                style="@style/scrollbar_frame_style">
+
+                            </ListView>
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/txtDescription"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textAlignment="center"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:text="Please note that if any entries appear in the about to display list then it denotes that an installation or update to the ZEROWS server has failed, please contact support. HOWEVER if any of the above entries are also LOCKED and are marked with a RED CROSS then this means a certified piece of code has changed which invalidates this scales and signifies a serious infringement of the scales original verification, therefore functionality will be reduced until further notice."
+                    android:layout_marginTop="10dp"
+                    android:textSize="20dp"
+                    android:textColor="#000000"
+                    style="@style/custom_message_text_style"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

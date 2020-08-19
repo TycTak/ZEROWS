@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.tyctak.zerowastescalestill.FrameLayoutMaxWidth xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/recyclerFrameLayout">
+
+    <com.tyctak.zerowastescalestill.LinearLayoutMaxWidth
+        android:tag="llPurchase"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:orientation="horizontal"
+        android:elevation="2dp"
+        android:layout_margin="2dp"
+        style="@style/custom_single_item">
+
+        <!-- insert VIEWHOLDER_TILLCONTAINER here -->
+
+    </com.tyctak.zerowastescalestill.LinearLayoutMaxWidth>
+
+</com.tyctak.zerowastescalestill.FrameLayoutMaxWidth>

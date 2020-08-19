@@ -1,0 +1,3687 @@
+
+Checking identification - Date: 2019-03-13 10:55:42.777064 - Command "page"
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]
+/home/pi/bin/bash_variables.sh is VALID
+/var/www/html/info.php is VALID
+/var/www/html/index.php is VALID
+/var/www/html/container.php is VALID
+/var/www/html/user.php is VALID
+/var/www/html/common.php is VALID
+/var/www/html/genguidcontainer.php is VALID
+/var/www/html/genguiduser.php is VALID
+/var/www/html/printcontainerbarcode.php is VALID
+/var/www/html/printticket.php is VALID
+/var/www/html/products.php is VALID
+/var/www/html/status.php is VALID
+/var/www/html/weight.php is VALID
+/var/www/html/weightlog.php is VALID
+/var/www/html/writecontainerbarcode.php is VALID
+/var/www/html/writeuserbarcode.php is VALID
+Checking identification - Date: 2019-03-13 10:55:53.287247 - Command "page"
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]
+/home/pi/bin/bash_variables.sh is VALID
+/var/www/html/info.php is VALID
+/var/www/html/index.php is VALID
+/var/www/html/container.php is VALID
+/var/www/html/user.php is VALID
+/var/www/html/common.php is VALID
+/var/www/html/genguidcontainer.php is VALID
+/var/www/html/genguiduser.php is VALID
+/var/www/html/printcontainerbarcode.php is VALID
+/var/www/html/printticket.php is VALID
+/var/www/html/products.php is VALID
+/var/www/html/status.php is VALID
+/var/www/html/weight.php is VALID
+/var/www/html/weightlog.php is VALID
+/var/www/html/writecontainerbarcode.php is VALID
+/var/www/html/writeuserbarcode.php is VALID
+Checking identification - Date: 2019-03-13 10:56:03.813960 - Command "page"
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]
+/home/pi/bin/bash_variables.sh is VALID
+/var/www/html/info.php is VALID
+/var/www/html/index.php is VALID
+/var/www/html/container.php is VALID
+/var/www/html/user.php is VALID
+/var/www/html/common.php is VALID
+/var/www/html/genguidcontainer.php is VALID
+/var/www/html/genguiduser.php is VALID
+/var/www/html/printcontainerbarcode.php is VALID
+/var/www/html/printticket.php is VALID
+/var/www/html/products.php is VALID
+/var/www/html/status.php is VALID
+/var/www/html/weight.php is VALID
+/var/www/html/weightlog.php is VALID
+/var/www/html/writecontainerbarcode.php is VALID
+/var/www/html/writeuserbarcode.php is VALID
+Checking identification - Date: 2019-03-13 10:56:14.317670 - Command "page"
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]
+/home/pi/bin/bash_variables.sh is VALID
+/var/www/html/info.php is VALID
+/var/www/html/index.php is VALID
+/var/www/html/container.php is VALID
+/var/www/html/user.php is VALID
+/var/www/html/common.php is VALID
+/var/www/html/genguidcontainer.php is VALID
+/var/www/html/genguiduser.php is VALID
+/var/www/html/printcontainerbarcode.php is VALID
+/var/www/html/printticket.php is VALID
+/var/www/html/products.php is VALID
+/var/www/html/status.php is VALID
+/var/www/html/weight.php is VALID
+/var/www/html/weightlog.php is VALID
+/var/www/html/writecontainerbarcode.php is VALID
+/var/www/html/writeuserbarcode.php is VALID
+Checking identification - Date: 2019-03-13 10:56:24.816511 - Command "page"
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]
+/home/pi/bin/bash_variables.sh is VALID
+/var/www/html/info.php is VALID
+/var/www/html/index.php is VALID
+/var/www/html/container.php is VALID
+/var/www/html/user.php is VALID
+/var/www/html/common.php is VALID
+/var/www/html/genguidcontainer.php is VALID
+/var/www/html/genguiduser.php is VALID
+/var/www/html/printcontainerbarcode.php is VALID
+/var/www/html/printticket.php is VALID
+/var/www/html/products.php is VALID
+/var/www/html/status.php is VALID
+/var/www/html/weight.php is VALID
+/var/www/html/weightlog.php is VALID
+/var/www/html/writecontainerbarcode.php is VALID
+/var/www/html/writeuserbarcode.php is VALID
+Checking identification - Date: 2019-03-13 10:56:35.314598 - Command "page"
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]
+/home/pi/bin/bash_variables.sh is VALID
+/var/www/html/info.php is VALID
+/var/www/html/index.php is VALID
+/var/www/html/container.php is VALID
+/var/www/html/user.php is VALID
+/var/www/html/common.php is VALID
+/var/www/html/genguidcontainer.php is VALID
+/var/www/html/genguiduser.php is VALID
+/var/www/html/printcontainerbarcode.php is VALID
+/var/www/html/printticket.php is VALID
+/var/www/html/products.php is VALID
+/var/www/html/status.php is VALID
+/var/www/html/weight.php is VALID
+/var/www/html/weightlog.php is VALID
+/var/www/html/writecontainerbarcode.php is VALID
+/var/www/html/writeuserbarcode.php is VALID
+Checking identification - Date: 2019-03-13 10:56:45.811883 - Command "page"
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]
+/home/pi/bin/bash_variables.sh is VALID
+/var/www/html/info.php is VALID
+/var/www/html/index.php is VALID
+/var/www/html/container.php is VALID
+/var/www/html/user.php is VALID
+/var/www/html/common.php is VALID
+/var/www/html/genguidcontainer.php is VALID
+/var/www/html/genguiduser.php is VALID
+/var/www/html/printcontainerbarcode.php is VALID
+/var/www/html/printticket.php is VALID
+/var/www/html/products.php is VALID
+/var/www/html/status.php is VALID
+/var/www/html/weight.php is VALID
+/var/www/html/weightlog.php is VALID
+/var/www/html/writecontainerbarcode.php is VALID
+/var/www/html/writeuserbarcode.php is VALIDfalse
+Checking identification - Date: 2019-03-13 10:56:56.306012 - Command "page"false
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]false
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]false
+/home/pi/bin/bash_variables.sh is VALIDfalse
+/var/www/html/info.php is VALIDfalse
+/var/www/html/index.php is VALIDfalse
+/var/www/html/container.php is VALIDfalse
+/var/www/html/user.php is VALIDfalse
+/var/www/html/common.php is VALIDfalse
+/var/www/html/genguidcontainer.php is VALIDfalse
+/var/www/html/genguiduser.php is VALIDfalse
+/var/www/html/printcontainerbarcode.php is VALIDfalse
+/var/www/html/printticket.php is VALIDfalse
+/var/www/html/products.php is VALIDfalse
+/var/www/html/status.php is VALIDfalse
+/var/www/html/weight.php is VALIDfalse
+/var/www/html/weightlog.php is VALIDfalse
+/var/www/html/writecontainerbarcode.php is VALIDfalse
+/var/www/html/writeuserbarcode.php is VALIDfalse
+Checking identification - Date: 2019-03-13 10:57:06.795760 - Command "page"false
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]false
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]false
+/home/pi/bin/bash_variables.sh is VALIDfalse
+/var/www/html/info.php is VALIDfalse
+/var/www/html/index.php is VALIDfalse
+/var/www/html/container.php is VALIDfalse
+/var/www/html/user.php is VALIDfalse
+/var/www/html/common.php is VALIDfalse
+/var/www/html/genguidcontainer.php is VALIDfalse
+/var/www/html/genguiduser.php is VALIDfalse
+/var/www/html/printcontainerbarcode.php is VALIDfalse
+/var/www/html/printticket.php is VALIDfalse
+/var/www/html/products.php is VALIDfalse
+/var/www/html/status.php is VALIDfalse
+/var/www/html/weight.php is VALIDfalse
+/var/www/html/weightlog.php is VALIDfalse
+/var/www/html/writecontainerbarcode.php is VALIDfalse
+/var/www/html/writeuserbarcode.php is VALIDfalse
+Checking identification - Date: 2019-03-13 10:57:17.292525 - Command "page"false
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]false
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]false
+/home/pi/bin/bash_variables.sh is VALIDfalse
+/var/www/html/info.php is VALIDfalse
+/var/www/html/index.php is VALIDfalse
+/var/www/html/container.php is VALIDfalse
+/var/www/html/user.php is VALIDfalse
+/var/www/html/common.php is VALIDfalse
+/var/www/html/genguidcontainer.php is VALIDfalse
+/var/www/html/genguiduser.php is VALIDfalse
+/var/www/html/printcontainerbarcode.php is VALIDfalse
+/var/www/html/printticket.php is VALIDfalse
+/var/www/html/products.php is VALIDfalse
+/var/www/html/status.php is VALIDfalse
+/var/www/html/weight.php is VALIDfalse
+/var/www/html/weightlog.php is VALIDfalse
+/var/www/html/writecontainerbarcode.php is VALIDfalse
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 10:58:20.207637 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 10:58:30.704805 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 10:58:41.218591 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 10:58:51.714397 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 10:59:02.227294 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 10:59:12.743628 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 10:59:23.248529 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 10:59:33.759310 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 10:59:44.270637 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 10:59:54.784789 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:00:05.304365 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:00:15.789271 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:00:26.308598 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:00:36.810838 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:00:47.321266 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:00:57.826250 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:01:08.329859 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:01:18.823712 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:01:29.338296 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:01:39.837448 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:01:50.332831 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:02:00.830029 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:02:11.334800 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:02:21.831045 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:02:32.345983 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:02:42.857353 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:02:53.362194 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:03:03.857011 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:03:14.356268 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:03:24.862910 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:03:35.352484 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:03:45.854683 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:03:56.365529 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:04:06.877586 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:04:17.384358 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:04:27.897300 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:04:38.409206 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:04:48.907345 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:04:59.394967 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:05:09.892356 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:05:20.391989 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:05:30.898407 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:05:41.404716 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:05:51.915017 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:06:02.430851 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:06:12.931856 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:06:23.447801 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:06:33.946438 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:06:44.460878 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:06:54.958812 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:07:05.451311 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:07:15.937619 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:07:26.437249 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:07:36.950463 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:07:47.462703 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:07:57.961269 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:08:08.465354 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:08:18.977375 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:08:29.476367 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:08:39.985080 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:08:50.492953 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:09:01.012542 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:09:11.516791 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:09:22.008620 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:09:32.502930 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:09:43.001229 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:09:53.497564 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:10:04.003424 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:10:14.509481 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:10:25.012159 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:10:35.512732 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:10:46.008748 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:10:56.512294 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:11:07.020118 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:11:17.518121 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:11:28.037348 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:11:38.530488 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:11:49.036055 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:11:59.553721 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:12:10.058652 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:12:20.558772 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:12:31.067965 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:12:41.574335 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:12:52.078602 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:13:02.569433 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:13:13.073471 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:13:23.586620 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:13:34.087688 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:13:44.583804 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:13:55.090861 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:14:05.595892 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:14:16.103851 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:14:26.612507 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:14:37.120533 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:14:47.615692 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:14:58.137962 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:15:08.644388 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:15:19.148021 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:15:29.638857 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:15:40.136341 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:15:50.635596 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:16:01.135711 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:16:11.632934 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:16:22.127600 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:16:32.625103 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:16:43.140598 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:16:53.644117 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:17:04.136522 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:17:14.637885 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:17:25.134705 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:17:35.638182 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:17:46.132911 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:17:56.627832 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:18:07.133016 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:18:17.637198 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:18:28.135465 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:18:38.648237 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:18:49.146538 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:18:59.653129 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:19:10.161467 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:19:20.666817 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:19:31.176650 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:19:41.674453 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:19:52.175344 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:20:02.674587 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:20:13.183976 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:20:23.682636 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:20:34.177168 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:20:44.684981 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:20:55.185940 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:21:05.706889 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:21:16.209233 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:21:26.720167 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:21:37.220953 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:21:47.741807 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:21:58.226437 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:22:08.739458 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:22:19.249048 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:22:29.757581 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:22:40.265526 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:22:50.765436 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:23:01.264576 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:23:11.764948 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:23:22.281167 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:23:32.776752 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:23:43.294573 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:23:53.809922 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:24:04.299087 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:24:14.792376 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:24:25.302932 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:24:35.808515 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:24:46.317432 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:24:56.830508 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:25:07.328999 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:25:17.851882 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:25:28.357066 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:25:38.868037 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:25:49.361139 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:25:59.870944 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:26:10.377470 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:26:20.873433 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:26:31.366929 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:26:41.879623 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:26:52.384979 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:27:02.903966 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:27:13.409197 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:27:23.909195 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:27:34.403262 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:27:44.903900 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:27:55.404353 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:28:05.905972 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:28:16.420989 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:28:26.927136 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:28:37.435222 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:28:47.938117 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:28:58.453722 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:29:08.947628 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:29:19.449740 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:29:29.941560 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:29:40.447134 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:29:50.954734 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:30:01.473196 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:30:11.979124 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALIDn
+Checking identification - Date: 2019-03-13 11:30:22.487132 - Command "page"n
+/home/pi/bin/lib/common.py is NOT VALID [51281e5d3d361bd438516187c02333c9]n
+/home/pi/bin/lib/sh.py is NOT VALID [ef466f7f373ec27338171254744d3c49]n
+/home/pi/bin/bash_variables.sh is VALIDn
+/var/www/html/info.php is VALIDn
+/var/www/html/index.php is VALIDn
+/var/www/html/container.php is VALIDn
+/var/www/html/user.php is VALIDn
+/var/www/html/common.php is VALIDn
+/var/www/html/genguidcontainer.php is VALIDn
+/var/www/html/genguiduser.php is VALIDn
+/var/www/html/printcontainerbarcode.php is VALIDn
+/var/www/html/printticket.php is VALIDn
+/var/www/html/products.php is VALIDn
+/var/www/html/status.php is VALIDn
+/var/www/html/weight.php is VALIDn
+/var/www/html/weightlog.php is VALIDn
+/var/www/html/writecontainerbarcode.php is VALIDn
+/var/www/html/writeuserbarcode.php is VALID

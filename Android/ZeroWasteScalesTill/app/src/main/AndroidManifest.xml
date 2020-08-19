@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.tyctak.zerowastescalestill"
+    android:versionCode="103"
+    android:versionName="1.03">
+
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.EXPAND_STATUS_BAR" />
+    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+    <uses-permission android:name="android.permission.WRITE_SYNC_SETTINGS" />
+    <uses-permission android:name="android.permission.REORDER_TASKS" />
+    <uses-permission android:name="android.permission.KILL_BACKGROUND_PROCESSES" />
+    <uses-permission android:name="com.android.vending.BILLING" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" tools:node="remove"/>
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" tools:node="remove"/>
+
+    <application
+        android:name=".MyApp"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/appName"
+        android:clearTaskOnLaunch="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:excludeFromRecents="true"
+        android:autoRemoveFromRecents="true"
+        android:usesCleartextTraffic="false"
+        android:networkSecurityConfig="@xml/network_security_config">
+
+        <activity android:name=".Test_Activity_SquareUp"></activity>
+        <activity android:name=".TestActivity" />
+        <activity
+            android:name=".Activity_MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:noHistory = "true"
+            android:name=".Activity_SplashScreen"
+            android:launchMode="singleTask"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Activity_Customer"
+            android:configChanges="orientation|screenSize"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:noHistory = "true"
+            android:name=".Activity_Configure"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:noHistory = "true"
+            android:name=".Activity_Password"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:noHistory = "true"
+            android:name=".Activity_ChangePassword"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:noHistory = "true"
+            android:name=".Activity_ChangeScales"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:noHistory = "true"
+            android:name=".Activity_Reward"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:noHistory="true"
+            android:name=".Activity_Payment"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:noHistory = "true"
+            android:name=".Activity_Backup"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:noHistory = "true"
+            android:name=".Activity_MessageReturn"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:noHistory = "true"
+            android:name=".Activity_Process"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:noHistory = "true"
+            android:name=".Activity_Reports"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:noHistory = "true"
+            android:name=".Activity_Reports_Analysis"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:noHistory = "true"
+            android:name=".Activity_DisplayLog"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:noHistory = "true"
+            android:name=".Activity_DisplayVerification"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:noHistory = "true"
+            android:name=".Dialog_Item"
+            android:theme="@style/AppTheme.PopupBackgroundTransparent" />
+    </application>
+
+</manifest>
